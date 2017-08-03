@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/parent"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/card_view"
+        android:layout_width="match_parent"
+        android:layout_height="380dp"
+        card_view:cardCornerRadius="4dp"
+        android:layout_margin="8dp"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+
+            <ImageView
+                android:id="@+id/thumbnail"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:layout_alignParentTop="true"
+                android:scaleType="fitXY"
+                android:src="@drawable/fert" />
+
+            <TextView
+                android:id="@+id/title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:maxLines="3"
+                android:padding="8dp"
+                android:text="@string/fertt"
+                android:textColor="#222"
+                android:textStyle="bold"
+                android:textSize="22dp"
+                android:layout_below="@+id/thumbnail"
+                android:layout_alignParentStart="true" />
+
+            <TextView
+                android:id="@+id/abt"
+                android:layout_width="wrap_content"
+                android:layout_height="380dp"
+                android:layout_below="@+id/title"
+                android:maxLines="3"
+                android:padding="8dp"
+                android:text="@string/abtfert"
+                android:scrollbars="vertical"
+                android:textColor="#666"
+                android:textSize="14dp" />
+
+        </RelativeLayout>
+
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/card_view1"
+        android:layout_width="match_parent"
+        android:layout_height="380dp"
+        card_view:cardCornerRadius="4dp"
+        android:layout_margin="8dp"
+        android:orientation="vertical">
+
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/thumbnail1"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:layout_alignParentTop="true"
+                android:scaleType="fitXY"
+                android:src="@drawable/pest" />
+
+            <TextView
+                android:id="@+id/title1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:maxLines="3"
+                android:padding="8dp"
+                android:text="@string/pest"
+                android:textColor="#222"
+                android:textStyle="bold"
+                android:textSize="22dp"
+                android:layout_below="@+id/thumbnail1"
+                android:layout_alignParentStart="true" />
+
+
+            <TextView
+                android:id="@+id/abt1"
+                android:layout_width="wrap_content"
+                android:layout_height="380dp"
+                android:layout_below="@+id/title1"
+                android:maxLines="3"
+                android:padding="8dp"
+                android:scrollbars="vertical"
+                android:text="@string/abtfert"
+                android:textColor="#666"
+                android:textSize="14dp" />
+
+
+        </RelativeLayout>
+
+
+    </android.support.v7.widget.CardView>
+</LinearLayout>
+    </ScrollView>
+
+

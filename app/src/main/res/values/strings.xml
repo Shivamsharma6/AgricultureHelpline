@@ -1,0 +1,203 @@
+<resources>
+    <string name="app_name">Madad The Helpline</string>
+    <string name="helpline">Helpline</string>
+    <string name="information">Information</string>
+    <string name="soil">Soil</string>
+    <string name="crops">Crops</string>
+    <string name="fert">Fertilizer and Pesticides</string>
+    <string name="fertt">Fertilizers</string>
+    <string name="pest">Pesticides</string>
+    <string name="north">North</string>
+    <string name="east">East</string>
+    <string name="south">South</string>
+    <string name="west">West</string>
+    <string name="lc">Live Chat</string>
+    <string name="sp">Submit Problems</string>
+    <string name="hc">Helpline Centres</string>
+    <string name="syq">Submit your query here:</string>
+    <string name="sub">Submit</string>
+    <string name="nam">Your Name:</string>
+    <string name="q">Your Query:</string>
+    <string name="msg">Enter Your Messages!!!</string>
+    <string name="ar">Add Room</string>
+    <string name="syl">Select Your Language:</string>
+    <string name="e">English</string>
+    <string name="h">Hindi</string>
+    <string name="reg">Choose Any Region:</string>
+    <string-array name="crps">
+        <item>Alluvial Soil</item>
+        <item>Laterite Soil</item>
+        <item>Red Soil</item>
+        <item>Black Soil</item>
+        <item>Desert Soil</item>
+        <item>Mountain Soil</item>
+    </string-array>
+    <string name="Alluvial">Alluvial Soil</string>
+    <string name="Laterite">Laterite Soil</string>
+    <string name="Red">Red Soil</string>
+    <string name="Black">Black Soil</string>
+    <string name="Desert">Desert Soil</string>
+    <string name="Mountain">Mountain Soil</string>
+    <string name="o">Overview</string>
+    <string name="fw">Where is it Found?</string>
+    <string name="cc">Crops Cultivated</string>
+    <string name="sd">Soil is a mixture of minerals, organic matter, gases, liquids, and countless organisms that together support life on Earth\n  Soil is a natural body called the pedosphere which has four important functions: it is a medium for plant growth; it is a means of water storage, supply and purification; it is a modifier of Earth\'s atmosphere; it is a habitat for organisms; all of which, in turn, modify the soil\n
+
+Soil is called the Skin of the Earth and interfaces with the lithosphere, the hydrosphere, the atmosphere, and the biosphere\n The term pedolith, used commonly to refer to the soil, literally translates ground stone\n Soil consists of a solid phase of minerals (the soil matrix) and organic matter, as well as a porous phase that holds gases (the soil atmosphere) and water (the soil solution)\n Accordingly, soils are often treated as a three-state system of solids, liquids, and gases\n
+
+Soil is a product of the influence of climate, relief (elevation, orientation, and slope of terrain), organisms, and its parent materials (original minerals) interacting over time\n Soil continually undergoes development by way of numerous physical, chemical and biological processes, which include weathering with associated erosion\n Given its complexity and strong internal connectedness soil has been considered as an ecosystem by soil ecologists\n
+
+Most soils have a dry bulk density (density of soil taking into account voids when dry) between 1.1 and 1.6 g/cm3, while the soil particle density is much higher, in the range of 2.6 to 2.7 g/cm3\n Little of the soil of planet Earth is older than the Pleistocene and none is older than the Cenozoic,although fossilized soils are preserved from as far back as the Archean\n
+
+Soil science has two basic branches of study: edaphology and pedology\n Edaphology is concerned with the influence of soils on living things\n Pedology is focused on the formation, description (morphology), and classification of soils in their natural environment\nIn engineering terms, soil is referred to as regolith, or loose rock material that lies above the solid geology\n Soil is commonly referred to as earth or dirt; technically, the term dirt should be restricted to displaced soil\n
+
+As soil resources serve as a basis for food security, the international community advocates its sustainable and responsible use through different types of soil governance\n
+</string>
+
+    <string name="tp">Types Of Soil:</string>
+    <string name="ws">What is Soil:</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="alo">Alluviums are mainly loams, i.e. mixtures of sand and clay.\n
+New alluvial loams are very fertile.\n
+In the younger stage of the riverine plains, sandy soils are more common.\n
+While in the beds of the rivers, it consists generally of pure sands.\n
+These soils cannot retain water.\n
+‘Zaid’ types of crops grow here, such as watermelons.\n
+Near the river mouths, the soil is usually clay.\n
+It retains water but does not allow root growth.\n
+In the plains are found patches and banks of old alluvium.\n
+There are huge deposits of old alluvium on the banks of Yamuna near Agra.\n
+Old alluviums are infertile due to leaching.\n
+</string>
+
+    <string name="alf">Alluvial soil in India is most likely found in the Indo-Gangetic plains that stretches across almost all of eastern and northern India. \n
+This type of soil is common in Northern India, particularly in the delta regions. \n
+They are named after the two rivers that drain the plain: The Indus and Ganges rivers.\n
+</string>
+
+    <string name="alc">Alluvial soils are deposited by rivers and are rich in some nutrients (particularly potash and humus), but are lacking in nitrogen and phosphorous. \n
+They tend to be sandier and quicker-draining than many other soils. \n
+Rice, wheat, sugarcane, cotton and jute all grow well in these soils. \n
+</string>
+
+    <string name="lo">Laterite is a soil and rock type rich in iron and aluminium, and is commonly considered to have formed in hot and wet tropical areas. Nearly all laterites are of rusty-red coloration, because of high iron oxide content. They develop by intensive and long-lasting weathering of the underlying parent rock. Tropical weathering (laterization) is a prolonged process of chemical weathering which produces a wide variety in the thickness, grade, chemistry and ore mineralogy of the resulting soils. The majority of the land area containing laterites is between the tropics of Cancer and Capricorn.
+
+Laterite has commonly been referred to as a soil type as well as being a rock type. This and further variation in the modes of conceptualizing about laterite (e.g. also as a complete weathering profile or theory about weathering) has led to calls for the term to be abandoned altogether. At least a few researchers specializing in regolith development have considered that hopeless confusion has evolved around the name. There is no likelihood, however, that the name will ever be abandoned; for material that looks highly similar to the Indian laterite occurs abundantly worldwide, and it is reasonable to call such material laterite.Laterite is a soil and rock type rich in iron and aluminium, and is commonly considered to have formed in hot and wet tropical areas. Nearly all laterites are of rusty-red coloration, because of high iron oxide content. They develop by intensive and long-lasting weathering of the underlying parent rock.</string>
+
+    <string name="lcc">Due to intensive leaching and low base exchange capacity, typical laterite soils generally lack fertility and are of little use for crop production. But when manured and irrigated, some laterites and lateritics are suitable for growing plantation crops like tea, coffee, rubber, cinchona, coconut, arecanut, etc. In low lying areas paddy is also grown.</string>
+
+    <string name="lf">Laterite soils in India are found in the Eastern Ghat of Orissa, the Southern parts of Western Ghat, Malabar Coastal plains and Ratnagiri of Maharashtra and some part of Andhra Pradesh, Tamil Nadu, Karnataka, Meghalaya, western part of West Bengal.</string>
+
+    <string name="ro">ro</string>
+    <string name="rf">rf</string>
+    <string name="rc">rc</string>
+
+    <string name="dso">dso</string>
+    <string name="df">df</string>
+    <string name="dc">dc</string>
+
+    <string name="mo">mo</string>
+    <string name="mf">mf</string>
+    <string name="mc">mc</string>
+
+    <string name="bo">bo</string>
+    <string name="bf">bf</string>
+    <string name="bc">bc</string>
+
+    <string name="cs">Crop Seasons in India:</string>
+    <string name="kc">Kharif Crops</string>
+    <string name="kcc">
+        Sown in June-July when rains first begin (Monsoon crop).
+    Harvested in September-October.
+    Requires lot of water and hot weather to grow.
+    Example: Rice, Jowar, Bajra, Maize, Cotton, Groundnut, Jute, Sugarcane, Turmeric, Pulses (like Urad Dal) etc.</string>
+    <string name="rabic">Rabi Crops</string>
+    <string name="rabicc">Sown in October-November
+Harvested in April-May.
+Requires warm climate for germination of seeds and maturation and cold climate for the growth.
+Example: Wheat, Oat, Gram, Pea, Barley, Potato, Tomato, Onion, Oil seeds (like Rapeseed, Sunflower, Sesame, Mustard) etc.</string>
+    <string name="zc">Zaid Crops</string>
+    <string name="zcc">Grown between March-June between Rabi and Kharif crop seasons.
+Early maturing crops.
+Example: Cucumber, Bitter Gourd, Pumpkin, Watermelon, Muskmelon, Moong Dal etc.</string>
+
+    <string name="coci">Categories of Crops in India:</string>
+    <string name="cocii">The major crops can all be divided into four main categories depending on their usage.
+1.Food Crops (Wheat, Maize, Rice, Millets and Pulses etc.)
+2.Cash Crops (Sugarcane, Tobacco, Cotton, Jute and Oilseeds etc.)
+3.Plantation Crops (Coffee, Coconut, Tea, and Rubber etc.)
+4.Horticulture crops (Fruits and Vegetables)</string>
+
+    <string name="ric">Rice</string>
+    <string name="rice">Rice is a tropical crop that can be grown almost throughout the year. It depends on atmospheric moisture and rainfall for irrigation. India is the 2nd largest producer of rice in the world. India has largest area in world under rice cultivation. Productivity is low compared to wheat because Green Revolution primarily boosted wheat production in India. The traditional rice fields are known as paddy fields and require to be flooded with 10-12 cm deep water in the early stages.
+Type of Crop: Kharif, Rabi
+Techniques Used: Transplantation technique, Japanese Transplantation technique, new SRI technique
+Varieties: Aman, Sali, Afghani, Aus, Boro, Palua
+Temperature: ∼ 24 0C
+Rainfall: ∼ 150 cm
+Soil type: Clay/ Loamy
+Major Producers: West Bengal, Uttar Pradesh, Andhra Pradesh, Punjab, Bihar, Orissa, Chhattisgarh, Assam, Tamil Nadu, Haryana
+Highest Producer: West Bengal
+Highest per Hectare Yield: Punjab
+Research Centres: Cuttack, Odisha
+Highest Producing Country: China</string>
+
+    <string name="demo">Crop Seasons in India
+
+India is the top producer of many crops in the world. There can be many ways to divide the types of crops (based on area, season, economic value etc.). Based on seasons, the crops in India are divided into three types; Rabi, Kharif and Zaid.
+Kharif Crops\n
+Sown in June-July when rains first begin (Monsoon crop).
+Harvested in September-October.
+Requires lot of water and hot weather to grow.
+Example: Rice, Jowar, Bajra, Maize, Cotton, Groundnut, Jute, Sugarcane, Turmeric, Pulses (like Urad Dal) etc.
+Rabi Crops
+Sown in October-November
+Harvested in April-May.
+Requires warm climate for germination of seeds and maturation and cold climate for the growth.
+Example: Wheat, Oat, Gram, Pea, Barley, Potato, Tomato, Onion, Oil seeds (like Rapeseed, Sunflower, Sesame, Mustard) etc.
+Zaid Crops
+Grown between March-June between Rabi and Kharif crop seasons.
+Early maturing crops.
+Example: Cucumber, Bitter Gourd, Pumpkin, Watermelon, Muskmelon, Moong Dal etc.
+Categories of Crops in India
+
+The major crops can all be divided into four main categories depending on their usage.\n
+
+Food Crops (Wheat, Maize, Rice, Millets and Pulses etc.)
+Cash Crops (Sugarcane, Tobacco, Cotton, Jute and Oilseeds etc.)
+Plantation Crops (Coffee, Coconut, Tea, and Rubber etc.)
+Horticulture crops (Fruits and Vegetables)
+Major Crops in India
+Now let us look at the major crops in India in detail.
+Rice
+Rice is a tropical crop that can be grown almost throughout the year. It depends on atmospheric moisture and rainfall for irrigation. India is the 2nd largest producer of rice in the world. India has largest area in world under rice cultivation. Productivity is low compared to wheat because Green Revolution primarily boosted wheat production in India. The traditional rice fields are known as paddy fields and require to be flooded with 10-12 cm deep water in the early stages.
+Type of Crop: Kharif, Rabi\n\n\n
+Techniques Used: Transplantation technique, Japanese Transplantation technique, new SRI technique
+Varieties: Aman, Sali, Afghani, Aus, Boro, Palua
+Temperature: ∼ 24 0C
+Rainfall: ∼ 150 cm
+Soil type: Clay/ Loamy
+Major Producers: West Bengal, Uttar Pradesh, Andhra Pradesh, Punjab, Bihar, Orissa, Chhattisgarh, Assam, Tamil Nadu, Haryana\n
+Highest Producer: West Bengal\n
+Highest per Hectare Yield: Punjab\n
+Research Centres: Cuttack, Odisha\n
+Highest Producing Country: China</string>
+
+
+    <string name="abtfert">A fertilizer is any material of natural or synthetic origin (other than liming materials) that is applied to soils or to plant tissues (usually leaves) to supply one or more plant nutrients essential to the growth of plants.
+
+Fertilizers enhance the growth of plants. This goal is met in two ways, the traditional one being additives that provide nutrients. The second mode by which some fertilizers act is to enhance the effectiveness of the soil by modifying its water retention and aeration. This article, like many on fertilizers, emphasises the nutritional aspect. Fertilizers typically provide, in varying proportions:
+three main macronutrients:
+Nitrogen (N): leaf growth;
+Phosphorus (P): Development of roots, flowers, seeds, fruit;
+Potassium (K): Strong stem growth, movement of water in plants, promotion of flowering and fruiting;
+three secondary macronutrients: calcium (Ca), magnesium (Mg), and sulphur (S);
+micronutrients: copper (Cu), iron (Fe), manganese (Mn), molybdenum (Mo), zinc (Zn), boron (B), and of occasional significance there are silicon (Si), cobalt (Co), and vanadium (V) plus rare mineral catalysts.
+The nutrients required for healthy plant life are classified according to the elements, but the elements are not used as fertilizers. Instead compounds containing these elements are the basis of fertilizers. The macronutrients are consumed in larger quantities and are present in plant tissue in quantities from 0.15 to 6.0 on a dry matter (DM) (0 moisture) basis. Plants are made up of four main elements: hydrogen, oxygen, carbon, and nitrogen. Carbon, hydrogen and oxygen are widely available as water and carbon dioxide. Although nitrogen makes up most of the atmosphere, it is in a form that is unavailable to plants. Nitrogen is the most important fertilizer since nitrogen is present in proteins, DNA and other components (e.g., chlorophyll). To be nutritious to plants, nitrogen must be made available in a "fixed" form. Only some bacteria and their host plants (notably legumes) can fix atmospheric nitrogen (N2) by converting it to ammonia. Phosphate is required for the production of DNA and ATP, the main energy carrier in cells, as well as certain lipids.</string>
+
+
+</resources>
+

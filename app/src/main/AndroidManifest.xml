@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.moon.shivam.agriculturehelpline">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/MyMaterialTheme">
+        <activity android:name=".SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity" />
+        <activity android:name=".Information" />
+        <activity android:name=".Helpline" />
+        <activity android:name=".Soil" />
+        <activity android:name=".Crops" />
+        <activity android:name=".Pesticides" />
+        <activity android:name=".LiveChat" />
+        <activity android:name=".HelplineCentres" />
+        <activity android:name=".SubmitProblem" />
+        <activity android:name=".Chat_Room" />
+        <activity android:name=".North" />
+        <activity android:name=".East" />
+        <activity android:name=".South" />
+        <activity android:name=".West" />
+
+        <service android:name=".MyFirebaseMessagingService">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+        <service android:name=".FirebaseIDService">
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+
+        <activity android:name=".langselector" />
+        <activity android:name=".AlluvialSoil" />
+        <activity android:name=".LateriteSoil" />
+        <activity android:name=".RedSoil" />
+        <activity android:name=".BlackSoil" />
+        <activity android:name=".DesertSoil" />
+        <activity android:name=".MountainSoil"></activity>
+    </application>
+
+</manifest>

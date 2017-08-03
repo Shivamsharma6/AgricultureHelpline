@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "706973341654",
+    "firebase_url": "https://agriculturehelpline-28ff1.firebaseio.com",
+    "project_id": "agriculturehelpline-28ff1",
+    "storage_bucket": "agriculturehelpline-28ff1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706973341654:android:2133f9f91f197fa6",
+        "android_client_info": {
+          "package_name": "com.moon.shivam.agriculturehelpline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706973341654-4chaqo0ll02tpn3cv10ua61efmbcmc4l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moon.shivam.agriculturehelpline",
+            "certificate_hash": "cfa83cf86fb9fec17d20962570c127e553c0c140"
+          }
+        },
+        {
+          "client_id": "706973341654-duhk7o1gcu5bvns2ebthneohp8bud4l6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnK-zNSYFw7QMZuRTv4aYCo44Te4rVBvE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706973341654-duhk7o1gcu5bvns2ebthneohp8bud4l6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
